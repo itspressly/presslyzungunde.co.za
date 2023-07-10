@@ -47,7 +47,6 @@ li{
 .pics{
     display: flex;
     box-shadow: 5%;
-    margin-left: 70px;
     justify-content: space-around;
     box-shadow: inset;
     height: 260px;
@@ -93,5 +92,14 @@ li{
     background-color: rgba(1, 243, 243, 0.644);
     width: 145px;
     text-align: center;
+    border-radius: 5px;
+}
+
+#button2{
+    font-family: monospace;
+    color: white;
+    background-color: aqua;
+    width: 150px;
+    height: 45px;
     border-radius: 5px;
 }
